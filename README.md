@@ -33,10 +33,11 @@ cd LCD-show/
 sudo ./LCD-hdmi
 ```
 
+### Tutoriales utilizados:
 
 https://trickiknow.com/raspberry-pi-3-complete-tutorial-2018-lets-get-started/
-
-
+https://www.instructables.com/id/Turning-your-Raspberry-Pi-into-a-personal-web-serv/
+https://www.toptal.com/raspberry-pi/how-to-turn-your-raspberry-pi-into-a-development-server
 
 
 
