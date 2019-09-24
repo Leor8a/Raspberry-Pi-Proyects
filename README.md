@@ -5,6 +5,15 @@ Este es un repositorio con notas para mi de como utilizar el Raspberry Pi, tengo
 
 ## Notas
 
+
+## Recordatorio de Linux Básico:
+
+#### Opciones para editar un archivo:
+
+```terminal
+sudo nano 
+```
+
 ### Instalación de Display 5" x3.5"
 
 #### Comandos para prender el Display:
@@ -16,7 +25,7 @@ chmod -R 755 LCD-show
 cd LCD-show/
 sudo ./LCD35-show
 ```
-#### Comandos para apagar el Display, regresar la imágen a Monitor:
+#### Comandos para apagar el Display, regresar la imagen a Monitor:
 
 ```terminal
 chmod -R 755 LCD-show
